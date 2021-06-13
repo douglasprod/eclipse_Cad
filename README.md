@@ -9,7 +9,7 @@ Ensure `eclipse_cad` in your server cfg.
 Insert sql dump(take in `eclipse_cad`) in your db.
 Add this columns to `users`:
 
-![image](https://user-images.githubusercontent.com/36680471/121810791-d493fc80-cc6a-11eb-922a-658fd2d1ad7a.png)
+![image](https://user-images.githubusercontent.com/36680471/121811767-078bbf80-cc6e-11eb-8b30-161408a1cb01.png)
 
 
 For change buttons key use `config.json`. `eclipse_cad/config.json`
