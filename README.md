@@ -16,7 +16,7 @@ For change buttons key use `config.json`. `eclipse_cad/config.json`
 
 
 
-For more questions douglasprod#6686 && https://discord.gg/4TJSZF4AWH
+For more questions douglasprod#6686 && https://discord.gg/8nXR6rfB2C
 
 
 ## Known Issues
